@@ -1,1 +1,2 @@
 discord.py[voice]>=1.4.1
+google-cloud-texttospeech>=2.5.2
